@@ -1,6 +1,6 @@
-## Voting App
+# Voting App
 
-<hr>
+
 Full stack vanilla Javascript application for User generated polls that can be shared. Log in and create polls for other people around the world to vote on and chart the results.
 
 
