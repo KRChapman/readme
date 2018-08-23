@@ -12,7 +12,7 @@ A visual representation of my algorithm to display Conway's Game of Life.
 
 ### Starting
 
-Press the white lettered run button to get the simulation started. While it is running or not clicking on the cells will create or destroy respectivly.
+Press the white lettered run button to get the simulation started. Whether it is running or not clicking on the cells creates or destroys respectivly.
 
 ### Speed
 
