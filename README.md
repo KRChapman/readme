@@ -1,7 +1,7 @@
 # Game of Life
 
 
-A Visual representation of my algorithm to display Conway's Game of Life.
+A visual representation of my algorithm to display Conway's Game of Life.
 
 
 ## Getting Started
