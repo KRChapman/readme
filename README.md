@@ -1,5 +1,5 @@
 # readme
-
+![my-store-search](https://github.com/KRChapman/store-search/blob/main/img/croped1.gif)
 
 # Project Title
 
